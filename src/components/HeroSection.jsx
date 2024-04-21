@@ -4,8 +4,8 @@ import video2 from "../assets/video2.mp4";
 
 function HeroSection() {
   return (
-    <div className="flex flex-col items-center mt-6 lg:mt-20">
-      <h1 className="text-4xl sm:text-6xl lg:text-7xl text-center tracking-wide max-w-4xl">
+    <div className="flex flex-col items-center lg:mt-5">
+      <h1 className="text-4xl sm:text-6xl lg:text-7xl text-center tracking-wide">
         <span className="bg-gradient-to-r from-blue-500 to-green-900 text-transparent bg-clip-text">
           YuppyTech Build {" "}
         </span>
@@ -30,7 +30,7 @@ function HeroSection() {
           autoPlay 
           loop
           muted
-          className="rounded-lg w-1/3 border border-blue-700 shadow-sm shadow-orange-400 mx-2 my-4" 
+          className="rounded-lg w-1/2 border border-blue-700 shadow-sm shadow-orange-400 mx-2 my-4" 
         >
           <source src={video1} type="video/mp4" />
           Sorry Page Loading
@@ -39,7 +39,7 @@ function HeroSection() {
           autoPlay 
           loop
           muted
-          className="rounded-lg w-1/3 border border-blue-700 shadow-sm shadow-orange-400 mx-2 my-4" 
+          className="rounded-lg w-1/2 border border-blue-700 shadow-sm shadow-orange-400 mx-2 my-4" 
         >
           <source src={video2} type="video/mp4" />
           Sorry Page Loading
