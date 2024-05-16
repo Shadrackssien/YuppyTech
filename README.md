@@ -31,8 +31,8 @@
 YuppuTech is a landing Page of a software company.
 
 <p align="center">
-  <img src = "https://github.com/Shadrackssien/YuppyTech/assets/117119351/3f03bef7-60bb-4733-8dcc-acd2dc7bd6a7" width=550>
-  <img src = "https://github.com/Shadrackssien/YuppyTech/assets/117119351/5c786eab-cb31-41e4-a551-6816184e2326" width=550>
+  <img src = "https://github.com/Shadrackssien/YuppyTech/assets/117119351/3f03bef7-60bb-4733-8dcc-acd2dc7bd6a7" width=450 height=400>
+  <img src = "https://github.com/Shadrackssien/YuppyTech/assets/117119351/5c786eab-cb31-41e4-a551-6816184e2326" width=450 height=400>
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
