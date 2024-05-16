@@ -10,14 +10,10 @@
   
 </p>
 <p align="center">
-    Shop everywhere you are. Built with Reactjs.
+    YuppyTech Build tools for developers. Built with Reactjs
     <br />
     <br />
-    <a href="https://yuppycart.netlify.app/">View Demo</a>
-    ·
-    <a href="https://github.com/Shadrackssien/YuppyCart/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
-    <a href="https://github.com/Shadrackssien/YuppyCart/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://yuppy-tech.vercel.app/">View Demo</a>
   </p>
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -25,7 +21,6 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
 - [Built With](#built-with)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
@@ -38,19 +33,6 @@ YuppyCart is committed to offering you a hassle-free and enjoyable online shoppi
 <p align="center">
   <img src = "https://github.com/Shadrackssien/YuppyCart/assets/117119351/624885b8-56af-465c-a9cd-113c4d7b1274" width=550>
 </p>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Features
-
-A few of the things you can do with YuppyCart and we are still implementing new and advance features
-
-* Sign in and Create Acoount Process
-* Search Engine
-* User-friendly product descriptions
-* Product gallery
-* Review and merge pull requests
-* Flash Sales
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
