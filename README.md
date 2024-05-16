@@ -2,7 +2,7 @@
 <h1 align="center"> YuppyTech </h1> <br>
 <p align="center">
   <a href="https://yuppy-tech.vercel.app/">
-    <img alt="YuppyTech" title="YuppyTech" src="https://github.com/Shadrackssien/YuppyCart/blob/main/src/assets/logo.png?raw=true" width="450">
+    <img alt="YuppyTech" title="YuppyTech" src="https://github.com/Shadrackssien/YuppyTech/blob/main/src/assets/logo.png?raw=true" width="450">
   </a>
 </p>
 
