@@ -28,10 +28,11 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Introduction
-YuppyCart is committed to offering you a hassle-free and enjoyable online shopping experience from the convenience of your own home. We have a vast selection of products, including fashionable clothing and accessories, to meet your needs. It has never been easier to find what you're looking for.
+YuppuTech is a landing Page of a software company.
 
 <p align="center">
-  <img src = "https://github.com/Shadrackssien/YuppyCart/assets/117119351/624885b8-56af-465c-a9cd-113c4d7b1274" width=550>
+  <img src = "https://github.com/Shadrackssien/YuppyTech/assets/117119351/3f03bef7-60bb-4733-8dcc-acd2dc7bd6a7" width=450>
+  <img src = "https://github.com/Shadrackssien/YuppyTech/assets/117119351/5c786eab-cb31-41e4-a551-6816184e2326" width=450>
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -49,11 +50,11 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/Shadrackssien/YuppyCart.git
+   git clone https://github.com/Shadrackssien/YuppyTech.git
    ```
 2. Go into the repository
    ```sh
-   cd yuppycart
+   cd yuppytech
    ```
 3. Install NPM packages
    ```sh
